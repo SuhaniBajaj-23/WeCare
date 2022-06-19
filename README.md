@@ -3,7 +3,7 @@ Deployed link: https://wecoverr.herokuapp.com/
 
     - By Team Bleach ( Domain - Celo First prize, Celo second prize, Celo third prize)
 <p align="center">
-<img src="https://user-images.githubusercontent.com/75134677/174476527-918117cb-6b44-45b8-90e8-9190bae6b6f6.png" height="300px" >
+<img src="https://user-images.githubusercontent.com/75134677/174476527-918117cb-6b44-45b8-90e8-9190bae6b6f6.png" height="200px" >
 </p>
 
 ### Members
