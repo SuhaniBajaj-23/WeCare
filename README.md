@@ -1,6 +1,9 @@
 # We Cover 
 Deployed link: https://wecoverr.herokuapp.com/ <br>
-Video Demo: https://youtu.be/nM5ar2PrFcU
+Video Demo: https://youtu.be/nM5ar2PrFcU <br>
+Dummy credentials- <br>
+(Donor) Email Id- ananyaag@gmail.com  Password- ananyaa1234@ <br>
+(Availer) Email Id- ngo@gmail.com       Password- ngo@1234 <br>
 
     - By Team Bleach ( Domain - Celo First prize, Celo second prize, Celo third prize)
 <p align="center">
