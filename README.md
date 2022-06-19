@@ -1,5 +1,6 @@
 # We Cover 
-Deployed link: https://wecoverr.herokuapp.com/
+Deployed link: https://wecoverr.herokuapp.com/ <br>
+Video Demo: https://youtu.be/nM5ar2PrFcU
 
     - By Team Bleach ( Domain - Celo First prize, Celo second prize, Celo third prize)
 <p align="center">
